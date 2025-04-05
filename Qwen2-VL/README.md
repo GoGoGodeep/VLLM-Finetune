@@ -2,3 +2,4 @@
 
 ### 推荐阅读：
 #### [大模型低秩适配器LoRA原理](https://zhuanlan.zhihu.com/p/646831196)
+#### [大模型低秩适配器LoRA源码](https://zhuanlan.zhihu.com/p/654897296)
