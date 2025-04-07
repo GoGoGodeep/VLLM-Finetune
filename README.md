@@ -10,7 +10,7 @@
 | **Prefix Tuning**     | 前缀微调是一种轻量级的微调方法，受提示（Prompting）的启发，但它引入了可训练的连续前缀向量，作为任务特定的参数。这些前缀向量被添加到输入序列的前面，模型在生成时可以将其视为“虚拟的”提示。  
 
 ### 微调尝试：
-- Qwen2-VL：基于LoRA进行微调
+- [Qwen2-VL](https://github.com/GoGoGodeep/VLM-Finetune/tree/main/Qwen2-VL)：基于LoRA进行微调
 
 ### 二、**监督微调（SFT）与混合训练**  
 | 方法              | 核心机制|
