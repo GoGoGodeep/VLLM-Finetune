@@ -6,3 +6,7 @@
 
 ### Qwen系列：
 1、Qwen整体介绍：[github](https://github.com/datawhalechina/tiny-universe/tree/main/content/Qwen-blog)
+
+
+### DeepSeek系列：
+1、大模型强化学习：[知乎](https://zhuanlan.zhihu.com/p/24240521221)
